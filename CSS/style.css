@@ -158,3 +158,25 @@ hr{
         width: 90%;
     }
   }
+  @media (max-width: 576px) { 
+    h1 {
+        font-size: 3.5rem;
+        margin-top: 20vw;
+        line-height: 0;
+    }
+    h2 {
+        font-size: 1,7rem;
+    }
+    .top-cloud{
+        position: absolute;
+        right: 10vh;
+        top: 10vw;
+        width: 20%;
+    }
+    .bottom-cloud{
+        width: 20%;
+    }
+    .mountain{
+        width: 100%;
+    }
+   }
